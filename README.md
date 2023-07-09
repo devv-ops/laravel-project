@@ -23,7 +23,7 @@
 `php artisan migrate`
 
 #### 8. Generate key for Laravel application
-`docker-compose exec app php artisan key:generate`  
+`php artisan key:generate`  
 `exit`
 
 #### 9. Profit
