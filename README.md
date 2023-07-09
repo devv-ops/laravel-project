@@ -16,6 +16,7 @@
 
 #### 6. Composer install
 `docker exec -it project_app bash`
+
 `composer install`
 
 #### 7. Check&migrate db
