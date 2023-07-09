@@ -9,7 +9,7 @@
 `cp .env.example .env`  
 
 #### 4. edit database connection
-nano .env
+`nano .env`
 
 #### 5. Start everything
 `docker-compose up -d --build`  
