@@ -28,6 +28,7 @@
 
 #### 9. Profit
 Enter on http://localhost  
+Phpmyadmin is available http://localhost/dbgui
 
 #### P.S You maybe need the following commands
 `sudo chmod 777 -R storage`
